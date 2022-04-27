@@ -1,5 +1,7 @@
 ### Description
 
+![image](https://user-images.githubusercontent.com/29613804/165643264-e534fa66-3bb5-480e-904a-f4b1618e831f.png)
+
 Simple API project for interacting with an Inventory Management System implemented in Python using the following libraries.
 * FastAPI (API implementation)
 * pydantic (Data classes)
@@ -27,3 +29,4 @@ uvicorn myapi:app --reload
 localhost:8000/docs
 ~~~
 
+* The API can be directly tested from the documentation page (executes a curl command)
